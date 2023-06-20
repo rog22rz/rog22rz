@@ -20,12 +20,11 @@ If you are recruiting, please don't hesitate to connect with me on LinkedIn!
 - 🌱 I’m developing using React, Svelte, Node, Java, Python and more
 - 📫 Reach me by [email](mailto:roger.zhang@mail.mcgill.ca), or on [LinkedIn](https://www.linkedin.com/in/zhang-roger/)
 
-### Check out [MaxEisen.me](https://rogerzhang.ca/) to learn more about me and check out my other projects!
+### Check out [rogerzhang.ca](https://rogerzhang.ca/) to learn more about me and check out my other projects!
 
 <details>
   <summary>Some Stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rog22rz&show_icons=true&bg_color=90,007363,00bba2&title_color=fff&text_color=fff&hide=stars,contribs" alt="Account Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxeisen&layout=compact&bg_color=90,007363,00bba2&title_color=fff&text_color=fff" alt="Language Stats" />
   </p>
 </details>
