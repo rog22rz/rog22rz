@@ -17,7 +17,7 @@ If you are recruiting, please don't hesitate to connect with me on LinkedIn!
 - 💼 I am a Software Development Engineer at [Publicis Sapient](https://www.publicissapient.com/)
 - 🎓 I graduated from Software Engineering at Mcgill University
 - 🔭 Aside from software development, some of my additional hobbies/interests are any and every sport, cooking, cinema, and collecting cool stuff!
-- 🌱 I’m developing using React, Svelte, Node, Java, Python and more
+- 🌱 I’m developing using React, Javascript, Node, Java, Python and more
 - 📫 Reach me by [email](mailto:roger.zhang@mail.mcgill.ca), or on [LinkedIn](https://www.linkedin.com/in/zhang-roger/)
 
 ### Check out [rogerzhang.ca](https://rogerzhang.ca/) to learn more about me and check out my other projects!
