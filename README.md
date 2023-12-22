@@ -14,7 +14,7 @@ All that to say, I love learning new things and creating friendships doing it. I
 If you are recruiting, please don't hesitate to connect with me on LinkedIn!
 
 ### Overview
-- 💼 I am a Software Development Engineer at [Publicis Sapient](https://www.publicissapient.com/)
+- 💼 I am a Software Development Engineer at [Wayfair](https://www.wayfair.ca/)
 - 🎓 I graduated from Software Engineering at Mcgill University
 - 🔭 Aside from software development, some of my additional hobbies/interests are any and every sport, cooking, cinema, and collecting cool stuff!
 - 🌱 I’m developing using React, Javascript, Node, Java, Python and more
